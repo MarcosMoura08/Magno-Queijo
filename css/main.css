@@ -1,0 +1,38 @@
+*{
+    margin:0;
+    padding: 0;
+    font-family: sans-serif;
+    font-weight: bold
+}
+
+
+body
+{
+    height: 100vh;
+    background-image: url(../img/queijo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover
+}
+
+#navegacao
+{
+    background-color:#de9e3c;
+    position: fixed;
+    width: 100%;
+}
+
+#navegacao ul
+{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: space-evenly;
+    padding: 20px;
+}
+
+
+#navegacao ul a
+{
+    text-decoration: none;
+    color: #FFF;
+}

@@ -1,4 +1,4 @@
-# Magno-Queijo
-web site para divulgação dos queijos canastras e produtos afins
-Marcos Carvalho
-HTML, CSS, JavaScript Bootstrap 
+# Magno-Queijo <br>
+web site para divulgação dos queijos canastras e produtos afins <br>
+Marcos Carvalho <br>
+HTML, CSS, JavaScript Bootstrap <br>

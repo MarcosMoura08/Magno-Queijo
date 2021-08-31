@@ -9,7 +9,7 @@
     background-image: url(../img/queijo.jpg);
     background-size: cover;
     background-repeat: no-repeat;
-    height: 100vh;
+    height: 100vh
 }
 
 #navegacao ul
@@ -17,13 +17,42 @@
     display: flex;
     justify-content: space-evenly;
     flex-direction: unset;
-    padding: 15px;
+    padding: 15px
 }
 
 #navegacao ul a
-{
-    color: #FFF;
-    letter-spacing: 3px;
-    text-decoration: none;
+{ 
+    color: #f8faf9;
+    text-decoration: none
+}
 
+#vitrine
+{
+    display: flex;
+    flex-direction: row;
+    margin: 14px 86px;
+    text-align: center
+}
+.title-principal
+{
+    margin: 20px 408px;
+    border: 2px solid;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #FFF;
+    background-color: #4d280d;
+}
+
+.title-vitrine
+{
+    margin-bottom: 20px
+}
+
+.image-vitrine
+{
+    width: 290px;
+    height: 150px;
+    margin-bottom: 20px
 }

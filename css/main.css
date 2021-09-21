@@ -43,7 +43,7 @@ html
     text-decoration: underline;
 }
 
-.welcome-message
+.welcome-message 
 {
     margin: 3em 0em;
     color:#FFF;
@@ -63,6 +63,50 @@ html
     letter-spacing: 6px;
     background: #a52a2a;
 }
+
+.container
+{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.title-container
+{
+    margin:1em 0em;
+    font-size: 2em;
+    color:#8a4513;
+    font-weight: bolder;
+}
+
+.sub-title-container
+{
+    margin-bottom: 3em;
+    text-transform: none;
+    font-family: "Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 0.95em;
+    font-style: italic;
+    font-weight: 500;
+}
+
+.item
+{
+    margin: 1em 0em;
+    padding:0em 1em;
+    text-align: center;
+    line-height: 25px;
+    color:#777
+}
+
+span
+{
+    display: block;
+    margin-bottom: 1em;
+}
+
+
+
+
 /* #vitrine-queijos
 {
     display: flex;
